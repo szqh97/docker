@@ -31,3 +31,4 @@ docs/_templates
 docs/changed-files
 pyenv
 vendor/pkg/
+cscope.*
